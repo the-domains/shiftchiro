@@ -1,0 +1,23 @@
+name: ShiftChiro
+favicon: null
+layout_spectrum: 0.5450770317111164
+typography_spectrum: 0.853871202096343
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9906642229761928
+  lightness: 0.15084907226264477
+  saturation: 0.6832385750021785
+  rhythmicContrast: 0.15889593749307096
+purpose: []
