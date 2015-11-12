@@ -1,6 +1,6 @@
 name: ShiftChiro
 favicon: null
-layout_spectrum: 0.5450770317111164
+layout_spectrum: 0.26493
 typography_spectrum: 0.853871202096343
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#000000'
     - '#000000'
   brandStrength: 0.5
-  lightness: 0.15084907226264477
-  saturation: 0.75
-  rhythmicContrast: 0.15889593749307096
+  lightness: 0.3125
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
